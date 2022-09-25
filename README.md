@@ -1,7 +1,7 @@
 # Quick-Cheatsheets
 ## Get Quick Revision Cheatsheets of any programming language, software, scripts.
 
-| Description | Links |
+| Topics | Links |
 | ------------ | ----- |
 |<ul> <li>Markdown</li> </ul>|<ul> <li>https://www.markdownguide.org/cheat-sheet/</li> </ul>|
 |<ul> <li>Python</li> </ul>|<ul> <li>https://www.pythoncheatsheet.org/cheatsheet/comprehensions</li> </ul>|
