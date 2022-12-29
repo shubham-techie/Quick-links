@@ -15,4 +15,4 @@
 |<ul><li> Jquery</li></ul>|<ul><li> https://css-tricks.com/snippets/jquery/</li></ul>|
 | <ul> <li>All rounder CHEATSHEET</li> </ul> | <ul> <li>https://cheatography.com/programming/</li> </ul>|
 |<ul> <li>Google Dataset Search</li> </ul>|<ul> <li>https://datasetsearch.research.google.com/</li> </ul>|
-|<ul><li>Regex</li></ul>|<ul><li>https://regex101.com/</li></ul>| <ul><li>https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/</li></ul>|
+|<ul><li>Regex</li></ul>|<ul><li>https://regex101.com/</li> <li>https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/</li></ul>|
