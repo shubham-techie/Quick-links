@@ -1,4 +1,4 @@
-# Quick-Cheatsheets
+# Quick-links
 ## Get Quick Revision Cheatsheets of any programming language, software, scripts.
 
 | Topics | Links |
@@ -16,7 +16,7 @@
 | <ul> <li>All rounder CHEATSHEET</li> </ul> | <ul> <li>https://cheatography.com/programming/</li> </ul>|
 |<ul> <li>Google Dataset Search</li> </ul>|<ul> <li>https://datasetsearch.research.google.com/</li> </ul>|
 |<ul><li>Regex</li></ul>|<ul><li>https://regex101.com/</li> <li>https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/</li></ul>|
-
+|<ul><li>Software Engineering Free Books</li></ul>|<ul><li>https://freecomputerbooks.com/</li></ul>|
 
 
 ![image](https://user-images.githubusercontent.com/85562020/210081016-b0149902-3d7e-4e02-a324-d096e9848041.png)
